@@ -12,7 +12,7 @@ for i in range(len(palgad)):
 #19   
 from palgad import lowest_salary
 
-palgad = [12, 2500, 750, 395, 1200]
+palgad = [1200, 2500, 750, 395, 1200]
 inimesed = ["A", "B", "C", "D", "E"]
 
 min_index, min_person = lowest_salary(palgad, inimesed)
